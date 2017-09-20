@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "testfp-3-client-side-solution",
+    "id": "188f7767-647f-4bec-8ea8-5620ee7c7247",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/testfp-3.sppkg"
+  }
+}

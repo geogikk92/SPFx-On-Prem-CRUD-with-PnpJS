@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "4cb848f9-aa02-44e2-8d40-de1e8da8cd83",
+  "alias": "SpFxOnPrenPnPjsWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "4cb848f9-aa02-44e2-8d40-de1e8da8cd83",
+    "group": { "default": "Under Development" },
+    "title": { "default": "SPFxOnPrenPnPJS" },
+    "description": { "default": "SPFxOnPrenPnPJS description" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "SPFxOnPrenPnPJS"
+    }
+  }]
+}

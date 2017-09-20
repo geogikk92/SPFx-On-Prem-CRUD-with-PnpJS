@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/spFxOnPrenPnPjs/SpFxOnPrenPnPjsWebPart.js",
+      "manifest": "./src/webparts/spFxOnPrenPnPjs/SpFxOnPrenPnPjsWebPart.manifest.json",
+      "outputPath": "./dist/sp-fx-on-pren-pn-pjs.bundle.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "spFxOnPrenPnPjsStrings": "webparts/spFxOnPrenPnPjs/loc/{locale}.js"
+  }
+}
